@@ -20,7 +20,7 @@ $(document).ready(function() {
               closeText: "X"});
 	})
 
-	$("#addToCartMacaroni").on("click", function () {
+	$("#addToCartMacaron").on("click", function () {
 		$("#checkOrderSmall").dialog({
 				hide: "blind",
             	show : "blind",
@@ -51,14 +51,14 @@ $(document).ready(function() {
             	width: "400px",
               closeText: "X"});
 	})
-
-	$("#addToCartRisotto").on("click", function () {
+	
+	 $("#addToCartRisotto").on("click", function () {
 		$("#checkOrderRisotto").dialog({
 				hide: "blind",
             	show : "blind",
-            	width: "400px",
-              closeText: "X"});
-	})
+           	width: "400px",
+           closeText: "X"});
+	 })
 
 	// increase/decrease the price of order if an item is added/removed
 	function checkboxChange(x) {
