@@ -6,7 +6,7 @@ A website that allows a person to choose pizza toppings and size and informs the
 ### Specs
 | Spec | Input | Output |
 | :-------------     | :------------- | :------------- |
-| **A person can choose an individual topping.  Default size is small.** | A person clicks  | Output:the amount |
+| **A person can choose a pizza with preferred topping.** | User clicks Finish order  | The amount to be paid plus a thank you alert |
 
 
 ## Setup/Installation Requirements
