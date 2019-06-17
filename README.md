@@ -7,12 +7,12 @@ A website that allows a person to choose pizza toppings and size and informs the
 | Spec | Input | Output |
 | :-------------     | :------------- | :------------- |
 | **A person can choose an individual topping.  Default size is small.** | A person clicks  | Output:the amount |
- 
+
 
 ## Setup/Installation Requirements
 
 1. Please visit my website at
-1. Please visit my website at
+1. Please visit my website at https://samuelokoth.github.io/Pizza_Project/.
 
 ## Known Bugs
 * No known bugs at this time.
